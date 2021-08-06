@@ -66,8 +66,6 @@ Before you get started and consume the provided operations, make sure to configu
 - username
 - password
 
-[Learn how to obtain PAT (Personal Access Token) for Tricentis qTest](https://docs.microsoft.com/en-us/azure/devops/organizations/accounts/use-personal-access-tokens-to-authenticate?view=azure-devops&tabs=preview-page)
-
 ![Image of Tricentis qTest MuleSoft Connector](https://github.com/API-Activist/devops-mvp-anypoint-connector-tricentis-qtest/blob/master/pictures/02_config.PNG)
 
 Now you are all set to use the Tricentis qTest Operations.
