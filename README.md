@@ -5,7 +5,7 @@ This Tricentis qTest MVP connector is build as a template for the #MuleSoft #Com
 Use the Tricentis qTest REST API reference to extend this connector to your needs - [available here](https://documentation.tricentis.com/qtest/10100/en/content/qtest_apis/apis_sdks/common_apis.htm#Login)
 Also worth using the Interactive API Client of qTest - [available here](https://api.qasymphony.com/#/) 
 
-![qTest Logo]()
+![qTest Logo](https://github.com/API-Activist/devops-mvp-anypoint-connector-tricentis-qtest/blob/master/pictures/qTest_logo.png)
 
 ## Getting started
 This Anypoint Studio MVP (Minimum Viable Product) Connector for Tricentis qTest has been built for the MuleSoft Community as a template to reuse and if required further extend. 
